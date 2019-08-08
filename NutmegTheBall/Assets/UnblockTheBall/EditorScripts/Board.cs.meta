@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1057dd301be2fbd4faf1992a2ecfb7d2
+timeCreated: 1487057129
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - texture2D: {instanceID: 0}
+  - tiles: {instanceID: 0}
+  - boardSprite: {fileID: 21300000, guid: fe1395c08a19acc4ea713a32990c79f1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
